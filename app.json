@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "mobileFlashCards",
+    "slug": "mobileFlashCards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-notifications"
+    ]
+  },
+  "name": "mobileFlashCards"
+}
